@@ -1,0 +1,34 @@
+Marites:    Hoy Mars, ano na naman yang nasagap mo? I-chika mo naman sa akin!
+--> Marites: Give me gossip. 
+
+Ging: 	    Eto na nga, Mars. Balitang-balita sa buong bayan na nagpa-hair rebond si Jessa.
+--> Ging: Everyone knows Jessa had a hair rebond 
+
+Marites: 	Hala, ang bongga naman, Mars! Pero teka, sa kabilang barangay nakatira si Jessa! Kilala kita, Mars. 
+            Paano nakarating sayo ang chismis na yan?
+--> Marties: How the  did that gossip get to you???? We don't even live in that country (not accurate translation)?!! 
+
+Ging: 	    Ganito kasi, Mars. Si Fina, nabanggit lang sa akin noong umuwi siya galing kina Esang. 
+            Si Esang naman, pinasa lang sa kanya ni Didith yung kwento. Ang source naman daw ni Didith, si Conchita. 
+            Si Bebeng naman yung nagkwento kay Conchita. Tapos, tanda mo, si Bebeng at Anita, magkapitbahay sila? 
+            Si Anita yung main source, chinika nya lang kay Bebeng.
+
+--> According to Ging: [Story flow (a -> b) meaning (a got story from b)]
+    A. Ging (final person) -> Fina 
+    B. Fina -> Esang 
+    C. Esang -> Didith 
+    D. Didith -> Conchita 
+    E. Conchita -> Bebeng 
+    F.  Bebeng -> Anita (main source)
+
+Marites: 	Ang dami namang pinagdaanan ng balitang yan! Baka naman fake news yan ha?
+--> Marites: "you gotta be lying?? it went through so much people?! o_O"
+
+Ging: 	    Nako, Mars. Ikaw ang imbestigador dito sa ating bayan. Ako, binalita ko lang sa iyo kung ano ang nasagap 
+            ko. Maniwala ka sa akin kasi sabi ni Fina, na sinabi ni Esang, na sinabi ni Didith, na sinabi ni Conchita, 
+            na sinabi ni Bebeng na nagsasabi ng totoo si Anita.
+--> Ging: TRUST me because:
+    A. fina said, esang said, didith said, conchita said, bebeng said, that anita is right. 
+
+[end of important information]
+
